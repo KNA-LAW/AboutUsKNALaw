@@ -781,6 +781,21 @@ a {
     padding: 2rem;
   }
 }
+.cid-sqRQgf3De2 .mbr-section-title {
+  color: #008102;
+}
+.cid-sqRQgf3De2 .mbr-section-subtitle {
+  color: #c50000;
+}
+.cid-sqRQgf3De2 .mbr-timeline-date {
+  color: #3a0000;
+}
+.cid-sqRQgf3De2 .mbr-timeline-title {
+  color: #eb0000;
+}
+.cid-sqRQgf3De2 .mbr-text {
+  color: #012800;
+}
 .cid-sqRSZF1HVU {
   padding-top: 6rem;
   padding-bottom: 6rem;
@@ -853,6 +868,9 @@ a {
   .cid-sqRScTsWIT .card {
     max-width: 12.5%;
   }
+}
+.cid-sqRScTsWIT .mbr-text {
+  color: #3a0000;
 }
 .cid-sqRTAmiguK {
   padding-top: 5rem;
