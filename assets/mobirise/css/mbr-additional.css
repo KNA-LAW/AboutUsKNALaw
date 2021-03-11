@@ -858,7 +858,7 @@ a {
   color: #000039;
 }
 .cid-sqRSZF1HVU H3 {
-  color: #006202;
+  color: #008102;
 }
 .cid-sqRScTsWIT {
   padding-top: 6rem;
@@ -883,6 +883,12 @@ a {
 }
 .cid-sqRScTsWIT .mbr-text {
   color: #3a0000;
+}
+.cid-sqRScTsWIT .mbr-section-subtitle {
+  color: #c10000;
+}
+.cid-sqRScTsWIT .mbr-section-title {
+  color: #008102;
 }
 .cid-sqRTAmiguK {
   padding-top: 5rem;
